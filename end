@@ -1,0 +1,59 @@
+[33mcommit 6946983d9c0e05cfefd9a3bcf28b63b0cf61da48[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mMain[m[33m)[m
+Merge: 66a5cd8 167d8ac
+Author: Jilanee <jilaneeshaikh@gmail.com>
+Date:   Sat Nov 29 12:09:18 2025 +0530
+
+    Merge
+
+[33mcommit 66a5cd88d8931281e029d36bdb5a9932327e02d8[m
+Author: Jilanee <jilaneeshaikh@gmail.com>
+Date:   Sat Nov 29 12:03:02 2025 +0530
+
+    Reload
+
+[1mdiff --git a/FullStackDevelopmentProgramwithGenerativeAINov-2025Batch b/FullStackDevelopmentProgramwithGenerativeAINov-2025Batch[m
+[1mnew file mode 160000[m
+[1mindex 0000000..65154a6[m
+[1m--- /dev/null[m
+[1m+++ b/FullStackDevelopmentProgramwithGenerativeAINov-2025Batch[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit 65154a6ec14b50aa561828ceccd326aec164b434[m
+
+[33mcommit 167d8ac819fe17c28b44bbbc3b1e7ed7b1ff277f[m[33m ([m[1;32mFullstack[m[33m)[m
+Author: Jilanee <jilaneeshaikh@gmail.com>
+Date:   Sat Nov 29 11:52:13 2025 +0530
+
+    Added formula sheet
+
+[1mdiff --git a/Formula.xlsx b/Formula.xlsx[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4308ec8[m
+Binary files /dev/null and b/Formula.xlsx differ
+
+[33mcommit 9366d916e8d899456e4a2b8710de80132ef1fb5b[m[33m ([m[1;32m1_Course[m[33m)[m
+Author: Jilanee <jilaneeshaikh@gmail.com>
+Date:   Sat Nov 29 11:40:13 2025 +0530
+
+    Added new file
+
+[1mdiff --git a/Akash kale clone.txt b/Akash kale clone.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/FullStackDevelopmentProgramwithGenerativeAINov-2025Batch b/FullStackDevelopmentProgramwithGenerativeAINov-2025Batch[m
+[1mnew file mode 160000[m
+[1mindex 0000000..65154a6[m
+[1m--- /dev/null[m
+[1m+++ b/FullStackDevelopmentProgramwithGenerativeAINov-2025Batch[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit 65154a6ec14b50aa561828ceccd326aec164b434[m
+
+[33mcommit 0eae0bac227f84332f7620ca75d140412e8236e7[m[33m ([m[1;32m2_Course[m[33m)[m
+Author: Jilanee <jilaneeshaikh@gmail.com>
+Date:   Fri Nov 28 22:48:54 2025 +0530
+
+    New File created
+
+[1mdiff --git a/1. Front end/Front Endfull data.xlsx b/1. Front end/Front Endfull data.xlsx[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4308ec8[m
+Binary files /dev/null and b/1. Front end/Front Endfull data.xlsx differ

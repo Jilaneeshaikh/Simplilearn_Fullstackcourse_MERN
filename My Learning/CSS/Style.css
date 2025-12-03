@@ -1,0 +1,14 @@
+h1{
+background-color: green;color:rgb(6, 60, 60); display:inline-block;
+}
+h2{
+background-color: rgb(74, 81, 58);color:rgb(12, 36, 36); display:inline-block
+}
+
+p{
+background-color: rgb(133, 155, 82);color:rgb(60, 33, 6); display:inline-block
+}
+
+div{
+background-color: rgb(155, 82, 129);color:rgb(60, 33, 6); display:inline-block
+}

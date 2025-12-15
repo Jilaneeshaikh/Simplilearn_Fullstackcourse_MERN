@@ -1,0 +1,82 @@
+/* Page background */
+body {
+  background-color: #f7f7f7;
+  font-family: Arial, sans-serif;
+}
+
+/* Sidebar items */
+.nav-item {
+  padding: 10px 0;
+  font-size: 14px;
+  color: #666;
+  cursor: pointer;
+}
+
+.nav-item:hover {
+  color: #ff7a00;
+}
+
+/* Menu heading */
+h3 {
+  color: #ff7a00;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+/* CARD DECORATION (IMPORTANT) */
+.card {
+  background-color: #ffecec;
+  border-radius: 14px;
+  border: none;
+  padding: 12px;
+  position: relative;
+  transition: 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.04);
+}
+
+/* Image inside card */
+.card img {
+  border-radius: 12px;
+}
+
+/* Price styling */
+.price {
+  font-weight: 600;
+  color: #333;
+}
+
+/* Rating badge (top-left) */
+.card::before {
+  content: "⭐ 4.3";
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background: black;
+  color: gold;
+  font-size: 12px;
+  padding: 3px 6px;
+  border-radius: 6px;
+}
+
+/* Wishlist heart (top-right) */
+.card::after {
+  content: "♡";
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  font-size: 18px;
+  color: black;
+}
+
+/* Button style */
+button.btn-success {
+  background-color: #ff7a00;
+  border: none;
+}
+
+button.btn-success:hover {
+  background-color: #e86c00;
+}

@@ -1,0 +1,86 @@
+import { MenuItem, Category } from './types';
+
+export const CATEGORIES: Category[] = [
+  { id: 'all', name: 'All Items' },
+  { id: 'burger', name: 'Burger' },
+  { id: 'burrito', name: 'Burrito' },
+  { id: 'desserts', name: 'Desserts' },
+  { id: 'donuts', name: 'Donuts' },
+  { id: 'pizza', name: 'Pizza' },
+];
+
+export const MOCK_MENU_ITEMS: MenuItem[] = [
+  {
+    id: '1',
+    name: 'Cheese Burger',
+    description: 'Juicy beef patty with cheddar cheese',
+    price: 13,
+    rating: 4.3,
+    category: 'burger',
+    image: 'https://picsum.photos/id/163/300/300',
+    isPopular: true,
+  },
+  {
+    id: '2',
+    name: 'Elk Burger',
+    description: 'Lean elk meat with caramelized onions',
+    price: 15,
+    rating: 4.3,
+    category: 'burger',
+    image: 'https://picsum.photos/id/292/300/300',
+  },
+  {
+    id: '3',
+    name: 'Double Decker',
+    description: 'Two patties, extra cheese, special sauce',
+    price: 18,
+    rating: 4.8,
+    category: 'burger',
+    image: 'https://picsum.photos/id/835/300/300',
+  },
+  {
+    id: '4',
+    name: 'Spicy Burrito',
+    description: 'Chicken, beans, rice, and hot salsa',
+    price: 12,
+    rating: 4.5,
+    category: 'burrito',
+    image: 'https://picsum.photos/id/488/300/300',
+  },
+  {
+    id: '5',
+    name: 'Glazed Donut',
+    description: 'Classic sugar glazed donut',
+    price: 4,
+    rating: 4.2,
+    category: 'donuts',
+    image: 'https://picsum.photos/id/431/300/300',
+  },
+  {
+    id: '6',
+    name: 'Pepperoni Pizza',
+    description: 'Traditional wood-fired pepperoni pizza',
+    price: 22,
+    rating: 4.7,
+    category: 'pizza',
+    image: 'https://picsum.photos/id/312/300/300',
+  },
+  {
+    id: '7',
+    name: 'Chocolate Cake',
+    description: 'Rich dark chocolate layer cake',
+    price: 8,
+    rating: 4.9,
+    category: 'desserts',
+    image: 'https://picsum.photos/id/102/300/300',
+  },
+  {
+    id: '8',
+    name: 'Veggie Pizza',
+    description: 'Bell peppers, onions, mushrooms, olives',
+    price: 19,
+    rating: 4.1,
+    category: 'pizza',
+    image: 'https://picsum.photos/id/83/300/300',
+  }
+];
